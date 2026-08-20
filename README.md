@@ -2,6 +2,12 @@
 
 O **Booksly** é um sistema interativo de gerenciamento de biblioteca desenvolvido para web. O grande diferencial deste projeto é que ele opera 100% no lado do cliente, utilizando **Dexie.js** (um wrapper para IndexedDB) para simular um banco de dados relacional e armazenar informações localmente no navegador.
 
+### 🚀 Demonstração
+
+**[Acessar o sistema online →](https://ronaldokaras.github.io/sistema-biblioteca-grupo/)**
+
+---
+
 ## 🚀 Funcionalidades
 
 O sistema é dividido em dois grandes módulos: **Painel do Usuário** e **Painel do Administrador**.
@@ -26,12 +32,6 @@ O sistema é dividido em dois grandes módulos: **Painel do Usuário** e **Paine
 * **Tema Escuro/Claro:** Suporte a dark mode exclusivo no painel de administração com armazenamento de preferência local.
 
 * <img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/852a99b9-c9f2-4f28-b1e1-4ddf561c7069" />
-
-
-
-### 🚀 Demonstração
-
-**[Acessar o sistema online →](https://ronaldokaras.github.io/sistema-biblioteca-grupo/)**
 
 ---
 
